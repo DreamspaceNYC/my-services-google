@@ -41,4 +41,3 @@ Then build frontend with deployed backend URL:
 ```bash
 cd frontend
 VITE_API_BASE_URL=https://YOUR_BACKEND_URL npm run build
-```
